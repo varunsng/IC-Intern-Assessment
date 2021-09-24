@@ -12,6 +12,9 @@ This portion of the RAVDESS contains 1440 files: 60 trials per actor x 24 actors
 File naming convention
 Each of the 1440 files has a unique filename. The filename consists of a 7-part numerical identifier (e.g., 03-01-06-01-02-01-12.wav). These identifiers define the stimulus characteristics
 
+## Note
+In order to use the dataset, download the files and save it in your google drive
+
 
 
 ## Filename Identifiers
