@@ -59,11 +59,15 @@ The Fourier spectrum is obtained by using the FFT on an audio signal. Taking the
 
 ## Accuracy vs epochs plots
 
-- For MLP model
+## For MLP model
+![screenshot](https://github.com/varunsng/IC-Intern-Assessment/blob/main/mlp.png)
 
-- For LSTM model
-
+## For LSTM model
+![screen](https://github.com/varunsng/IC-Intern-Assessment/blob/main/Lstm.png)
 
 # Observations
 
 - We can see that by taking a better model such as LSTM model the accuracy is increased.
+- The model was trained for 50 epochs only so accuracy can also be improved by training on more number of epochs
+- Using dropouts between layers enhances the accuracy
+- The dataset has 1440 files in total so a larger dataset will allow for a better training and testing of the model
